@@ -90,4 +90,5 @@ StopBtn.MouseButton1Click:Connect(function()
         currentSound = nil
     end
     PlayBtn.Text = "PLAY"
+  end
 end)
